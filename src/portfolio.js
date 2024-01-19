@@ -340,30 +340,29 @@ const certifications = {
   certifications: [
     {
       title: "Java FullStack Developer",
-      subtitle: "Amazon Web Services",
-      logo_path: "aws.png",
+      logo_path: "jspiders.png",
       certificate_link:
         "https://drive.google.com/file/d/10kDovoo6NVtGY3cmdB1gmkkO53IIsadl/view?usp=sharing",
-      alt_name: "AWS",
+      alt_name: "JSP",
       color_code: "#ffc475",
     },
-    {
-      title: "AWS Certified Cloud Practioner",
-      subtitle: "Amazon Web Services",
-      logo_path: "aws.png",
-      certificate_link:
-        "https://www.credly.com/badges/8b2db191-702d-427c-91aa-0f926be447a6/public_url",
-      alt_name: "AWS",
-      color_code: "#ffc475",
-    },
-    {
-      title: "Google Summer of Code 2019",
-      subtitle: "Google / Sugar Labs",
-      logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
-      color_code: "#ffc475",
-    },
+    // {
+    //   title: "AWS Certified Cloud Practioner",
+    //   subtitle: "Amazon Web Services",
+    //   logo_path: "aws.png",
+    //   certificate_link:
+    //     "https://www.credly.com/badges/8b2db191-702d-427c-91aa-0f926be447a6/public_url",
+    //   alt_name: "AWS",
+    //   color_code: "#ffc475",
+    // },
+    // {
+    //   title: "Google Summer of Code 2019",
+    //   subtitle: "Google / Sugar Labs",
+    //   logo_path: "google_logo.png",
+    //   certificate_link: " ",
+    //   alt_name: "Google",
+    //   color_code: "#ffc475",
+    // },
     // {
     //   title: "Google Code-In Student",
     //   subtitle: "2014-2017",
