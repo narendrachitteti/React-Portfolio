@@ -311,7 +311,7 @@ const degrees = {
     {
       title: "Siddartha Educational Academy Group of Institutions",
       subtitle: "B.Tech. in Electrical and Electronics Engineering",
-      logo_path: "sal.png",
+      logo_path: "siddarth.png",
       alt_name: "SETI",
       duration: "2019 - 2022",
       descriptions: [
@@ -319,7 +319,19 @@ const degrees = {
         "⚡ I have also completed various online courses for Web Development, Java fullstack Development, etc.",
         "⚡ I have implemented several projects based on what I've learnt under my online course. ",
       ],
-      website_link: "https://www.sal.edu.in/",
+      website_link: "https://siddarthaedu.in/",
+    },
+    {
+      title: "Government Polytechnic Chandragiri",
+      subtitle: "Diploma in Electrical and Electronics Engineering",
+      logo_path: "siddarth.png",
+      alt_name: "SETI",
+      duration: "2019 - 2022",
+      descriptions: [
+        "⚡ I have studied core subjects like Digital Electronics, Renewable Energy Systems etc.",
+        "⚡ I have also completed online courses as Python",
+      ],
+      website_link: "https://govtpolychandragiri.ac.in/",
     },
   ],
 };
@@ -327,11 +339,11 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "AWS Developer Associate",
+      title: "Java FullStack Developer",
       subtitle: "Amazon Web Services",
       logo_path: "aws.png",
       certificate_link:
-        "https://www.credly.com/badges/b12fbece-07f3-47f5-9dda-cd56f49e250d/public_url",
+        "https://drive.google.com/file/d/10kDovoo6NVtGY3cmdB1gmkkO53IIsadl/view?usp=sharing",
       alt_name: "AWS",
       color_code: "#ffc475",
     },
