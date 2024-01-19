@@ -2,7 +2,7 @@
   "private": true,
   "name": "opportfolio",
   "version": "1.2.0",
-  "homepage": "http://narendra.tech/",
+  "homepage": "https://narendrachitteti.vercel.app",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
